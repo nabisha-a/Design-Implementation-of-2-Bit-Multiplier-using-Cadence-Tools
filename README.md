@@ -48,7 +48,7 @@ ii)	Create Schematic Cell view.
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
 
-![IMG-20241019-WA0032](https://github.com/user-attachments/assets/367dd590-0978-45bf-bbc9-84e181d23d0a)
+![WhatsApp Image 2024-11-19 at 12 16 13 PM](https://github.com/user-attachments/assets/2fc4aaca-de83-42f1-b36d-526859026c71)
 
  
 iii)	Creating the Symbol for schematic Cell view
@@ -65,7 +65,7 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
- ![IMG-20241019-WA0029](https://github.com/user-attachments/assets/bcea6826-7c9d-464b-a645-aa0f6b0c80aa)
+![WhatsApp Image 2024-11-19 at 12 16 21 PM](https://github.com/user-attachments/assets/28c67750-6af8-4c74-9cda-e329bb671a89)
 
 
 
@@ -80,7 +80,7 @@ iv)	Creating the new test cell view
 •	Follow the step 3(ii) d to make the required connections
 
 
-![IMG-20241019-WA0031](https://github.com/user-attachments/assets/11ad6598-e17a-42d3-becf-022d93e4e99d)
+![WhatsApp Image 2024-11-19 at 12 16 28 PM](https://github.com/user-attachments/assets/6fd2101f-661f-462d-930f-7165d6cd6a8b)
 
  
 
@@ -95,14 +95,14 @@ Analog simulation by SPECTRE.
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
 
-![IMG-20241026-WA0016](https://github.com/user-attachments/assets/cefafc03-6c2e-4227-91fe-f21f1241754c)
+![WhatsApp Image 2024-11-19 at 12 16 52 PM](https://github.com/user-attachments/assets/adf7d6d4-1289-41c3-be8d-c463ef026000)
 
 
 For Transient Analysis Settings and Output
-![IMG-20241019-WA0028](https://github.com/user-attachments/assets/ccc48800-045e-4cf8-b9d7-bf8fc443e8ae)
+![WhatsApp Image 2024-11-19 at 12 16 58 PM](https://github.com/user-attachments/assets/eac2dc1a-8355-46d8-b4e6-5e8fae876865)
 
 
- ![IMG-20241019-WA0027](https://github.com/user-attachments/assets/c13a30de-284c-4201-8bde-c9fc9e88234b)
+![WhatsApp Image 2024-11-19 at 12 17 05 PM](https://github.com/user-attachments/assets/b8cf4b29-afa0-4483-9c1c-cd4c334f5e39)
 
   
 
